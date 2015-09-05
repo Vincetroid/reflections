@@ -6,4 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 	It is an intermediate area between working directory and the repository. This may leave stuff behind in working directory and let put files definitely for the next commit in the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Ensure add the files for one commit.
+
 	
