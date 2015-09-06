@@ -10,4 +10,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Ensure add the files for one commit.
 
-	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you need to keep normal way but also create a experimental ways, other kind of versions.
+
+How do the diagrams help you visualize the branch structure?
+
+	Help take decisions more clearly.
